@@ -1,5 +1,7 @@
 # Python PAA Profile ML Walkthrough
 
+Download these by clicking the green Code button in the upper right of this screen, and click 'Download Zip' to wherever you want it on your local computer. Extract those files into an uncompressed directory.<br/>
+
 The data for this walkthrough is available in the supplemental material here:<br/>
 https://academic.oup.com/clinchem/article/66/9/1210/5900235<br/>
 
