@@ -1,0 +1,14 @@
+name: paa_xgb
+channels:
+  - defaults
+  - anaconda
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - jupyterlab==3.1.7
+    - matplotlib==3.3.4
+    - numpy==1.19.2
+    - scikit-learn==0.24.2
+    - pandas==1.1.5
+    - xgboost==0.90
