@@ -11,13 +11,10 @@ https://www.anaconda.com/products/individual<br/>
 Anaconda comes with a graphic user interface (GUI) and a command line interface (CLI). 
 
 Create virtual anaconda environment:<br/>
-`conda create --name paa_env python=3.6`
+`conda env create --file environment.yml`
 
 Activate environment<br/>
-`conda activate paa_env`
-
-Install required packages<br/>
-`pip install -r requirements.txt`
+`conda activate paa_xgb`
 
 Start jupyter lab in command shell:<br/>
 `jupyter lab`
